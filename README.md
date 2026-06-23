@@ -98,3 +98,69 @@ Human verification is necessary to ensure that policy briefs are grounded in act
 ## 3. 📌 Key Insight
 
 AI-generated research outputs should be treated as **preliminary synthesis tools**, not authoritative sources. All statistical claims must be cross-checked with LGU reports, DENR publications, or peer-reviewed environmental studies before policy application.
+
+
+
+
+# 📊 Data Analytics & Visual Report
+
+---
+
+## 📍 Dataset Focus: Davao Region Municipal Waste Generation & Recycling Performance (Mock CSV Analysis)
+
+---
+
+## 1. 🧹 Data Cleaning Protocol Log
+
+### 📥 Raw Input Issues Identified
+The uploaded CSV dataset contained multiple structural inconsistencies:
+
+- Missing values in the **Recycling Rate (%)** column for several barangays  
+- Mixed formatting in waste volume entries (kg, tons, and raw numeric strings)  
+- Inconsistent barangay naming conventions (e.g., “Brgy. 5-A”, “Barangay 5A”, “5-A”)  
+- Outlier values in reported waste generation (likely encoding or entry errors)
+
+---
+
+### ⚙️ AI Cleaning Instructions Executed
+
+"Standardize all waste measurements to metric tons (MT).
+Normalize barangay names using LGU official naming format.
+Impute missing Recycling Rate (%) values using barangay-level mean.
+Remove or flag extreme outliers beyond 3 standard deviations.
+Output cleaned dataset with validated numerical consistency."
+
+
+---
+
+### 📊 Cleaning Outcomes
+- Standardized dataset: **142 barangay records processed**
+- Missing values imputed: **11 entries**
+- Outliers flagged: **4 extreme values removed**
+- Measurement normalization: **100% converted to Metric Tons (MT)**
+
+---
+
+## 2. 📈 Visualizations Generated
+
+### 📊 Chart 1: Waste Generation vs Recycling Rate (Davao City Barangays)
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 24, 2026, 07_18_07 AM" src="https://github.com/user-attachments/assets/547c2620-6ee6-4a7a-bf1f-f91b4ec5ad25" />
+ 
+---
+
+### 📉 Chart 2: Monthly Waste Volume Trend (Davao Region Aggregate)
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 24, 2026, 07_18_15 AM" src="https://github.com/user-attachments/assets/d5f0a982-91b4-4fc9-a1c9-b9f45f0733d5" /> 
+
+---
+
+## 3. 🧠 Human Analytical Narrative (Interpretation Layer)
+
+The cleaned dataset reveals a persistent imbalance between waste generation and recycling efficiency across Davao City barangays. While urban barangays show significantly higher waste output, recycling rates do not scale proportionally, indicating a structural gap in localized waste recovery systems.
+
+The second visualization highlights predictable spikes in waste production during peak economic and social activity periods, particularly during holiday seasons. This pattern suggests that waste management systems remain reactive rather than anticipatory.
+
+From a policy perspective, this reinforces the need for the City Environment and Natural Resources Office (CENRO) to adopt predictive waste management scheduling and expand Materials Recovery Facility (MRF) coverage in high-density barangays.
+
+Failure to address these disparities may result in increasing landfill pressure and higher munic
