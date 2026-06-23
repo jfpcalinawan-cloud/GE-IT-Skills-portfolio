@@ -62,3 +62,39 @@ Davao City implements strict waste management policies to reduce pollution, impr
 🏠 The house represents barangay-level community participation  
 
 The minimalist vector style ensures adaptability across LGU reports, presentations, and public awareness materials.
+
+
+
+
+# 📚 Literature Verification Log
+
+## ♻️ Topic: Solid Waste Management and Waste Segregation Policies in Davao City
+
+---
+
+## 1. 🤖 AI-Generated Summary Audit
+
+An AI tool was prompted to summarize literature on waste management systems in Davao City and surrounding Mindanao urban areas. The following statements were extracted and manually verified against official environmental and LGU-related sources.
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+| :--- | :--- | :--- | :--- |
+| "Davao City has achieved near 90% compliance in household waste segregation due to strict enforcement of environmental ordinances." | City Environment and Natural Resources Office (CENRO) Davao reports | ⚠️ **Partially Supported / Overstated** | While Davao City has strong enforcement policies (e.g., RA 9003 implementation), compliance rates vary across barangays and are not consistently reported at 90%. |
+| "Waste-to-energy facilities are already fully operational in Davao City as part of its solid waste management strategy." | Department of Environment and Natural Resources (DENR) regional updates | ❌ **Not Fully Verified** | No fully operational large-scale waste-to-energy plant is confirmed in Davao City as of current public reports; initiatives remain in planning or proposal stages. |
+| "Barangay-level segregation and MRF (Materials Recovery Facility) systems are the backbone of Davao City’s solid waste strategy." | DENR Solid Waste Management reports / LGU waste policy frameworks | ✅ **Verified** | Confirmed. Republic Act 9003 mandates barangay MRFs, which are widely implemented as core waste management infrastructure. |
+
+---
+
+## 2. 🧠 Critical Reflection on AI Limitations
+
+AI tools are effective in rapidly summarizing environmental policy discussions and municipal waste management frameworks. However, they tend to:
+- Overestimate implementation success rates
+- Confuse planned infrastructure with fully operational systems
+- Generalize policy compliance without barangay-level data validation
+
+Human verification is necessary to ensure that policy briefs are grounded in actual LGU implementation status rather than idealized summaries.
+
+---
+
+## 3. 📌 Key Insight
+
+AI-generated research outputs should be treated as **preliminary synthesis tools**, not authoritative sources. All statistical claims must be cross-checked with LGU reports, DENR publications, or peer-reviewed environmental studies before policy application.
