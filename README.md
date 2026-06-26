@@ -1,6 +1,15 @@
 # GE-IT-Skills-portfolio
 My portfolio for the elective IT skills!
 
+# I'm Jaiza Faye Calinawan
+## Future CPA | Aspiring Entrepreneur 
+
+### I'm a Bachelor of Science in Accountancy student with a growing passion for finance, entrepreneurship, investing, and technology. While my academic foundation is in accounting, I'm also exploring coding and AI to understand how technology can improve businesses and solve real-world problems.
+
+### My goal is to become a Certified Public Accountant, build successful businesses, and continuously learn skills that combine finance, innovation, and leadership. I believe that understanding both business and technology will create more opportunities in today's digital economy.
+
+#### "Balancing Books. Building Businesses."
+
 
 # ♻️ The Davao City Waste Segregation and Recycling Prompt System
 
