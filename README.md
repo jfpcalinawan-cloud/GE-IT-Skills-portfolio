@@ -10,6 +10,7 @@ My portfolio for the elective IT skills!
 
 #### "Balancing Books. Building Businesses."
 
+---
 
 # ♻️ The Davao City Waste Segregation and Recycling Prompt System
 
