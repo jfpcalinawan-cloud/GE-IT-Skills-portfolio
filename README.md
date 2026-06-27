@@ -19,6 +19,9 @@ This project involved creating a profile banner and a square promotional graphic
 # PROJECT 3 (DOCS)
 This infographic was designed to present each chapter of a research paper in a clear, organized, and visually engaging format, making complex information easier to understand. Creating this project strengthened my ability to communicate research findings effectively through visual design while maintaining a logical flow of information.
 
+# Project 4 (MEDIA)
+This project introduced me to interactive design and prototyping by allowing me to create clickable screens and basic motion effects. It gave me a better understanding of how user interactions are planned and helped me improve my prototyping skills through hands-on practice.
+
 # ♻️ The Davao City Waste Segregation and Recycling Prompt System
 
 ---
