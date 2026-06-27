@@ -16,6 +16,9 @@ This branding project was designed using the CRAP principles to create a clean, 
 # PROJECT 2 (VISUALS)
 This project involved creating a profile banner and a square promotional graphic using clear visual hierarchy and consistent branding. It helped me improve my ability to design engaging social media visuals that are both visually appealing and effective in communicating a message.
 
+# PROJECT 3 (DOCS)
+This infographic was designed to present each chapter of a research paper in a clear, organized, and visually engaging format, making complex information easier to understand. Creating this project strengthened my ability to communicate research findings effectively through visual design while maintaining a logical flow of information.
+
 # ♻️ The Davao City Waste Segregation and Recycling Prompt System
 
 ---
