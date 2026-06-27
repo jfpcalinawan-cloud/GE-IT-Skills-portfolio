@@ -10,7 +10,8 @@ My portfolio for the elective IT skills!
 
 #### "Balancing Books. Building Businesses."
 
-
+# PROJECT 1 (BRANDING KIT)
+This branding project was designed using the CRAP principles to create a clean, visually balanced, and consistent identity. I chose gold as the primary color to represent professionalism, ambition, and success while maintaining strong contrast and alignment throughout the design. This activity helped me understand how thoughtful design choices can strengthen a brand's identity and improve visual communication.
 
 # ♻️ The Davao City Waste Segregation and Recycling Prompt System
 
