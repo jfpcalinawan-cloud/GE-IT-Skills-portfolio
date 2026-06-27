@@ -13,6 +13,9 @@ My portfolio for the elective IT skills!
 # PROJECT 1 (BRANDING KIT)
 This branding project was designed using the CRAP principles to create a clean, visually balanced, and consistent identity. I chose gold as the primary color to represent professionalism, ambition, and success while maintaining strong contrast and alignment throughout the design. This activity helped me understand how thoughtful design choices can strengthen a brand's identity and improve visual communication.
 
+# PROJECT 2 (VISUALS)
+This project involved creating a profile banner and a square promotional graphic using clear visual hierarchy and consistent branding. It helped me improve my ability to design engaging social media visuals that are both visually appealing and effective in communicating a message.
+
 # ♻️ The Davao City Waste Segregation and Recycling Prompt System
 
 ---
